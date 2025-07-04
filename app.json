@@ -22,7 +22,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.rork.morza.recehan"
+      "package": "app.rork.morza.recehan",
+      "jsEngine": "jsc"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
