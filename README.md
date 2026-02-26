@@ -1,4 +1,4 @@
-# 🚀 Recehan - Copywriting Promosi Lengkap
+# 🚀 Recehan - UMKM APP
 
 ## 🎯 Tagline Utama
 **"Warung Modern, Untung Maksimal!"**
